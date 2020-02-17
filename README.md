@@ -1,2 +1,2 @@
 # TechServices
-Tech services website from Hichem Med's Master HTML, CSS, and Javascript course on Udemy
+Tech services website made with HTML, CSS, and Javascript.
