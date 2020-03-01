@@ -81,7 +81,7 @@ header.open nav{
 #intro{
     padding-top: 80px;
     min-height: 500px;
-    background-image:linear-gradient(rgba(255,255,255,1), rgba(255,255,255,0.6)), url(img/intro.jpg);
+    background-image:linear-gradient(rgba(255,255,255,1), rgba(255,255,255,0.6)), url(../img/intro.jpg);
     background-size: cover;
     background-position: 40%;
     background-attachment: fixed;
@@ -235,7 +235,7 @@ header.open nav{
 
 /* Join Us*/
 #work-with-us{
-    background-image:linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,0.5)), url(img/work-with-us.jpg);
+    background-image:linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,0.5)), url(../img/work-with-us.jpg);
     background-size: cover;
     background-attachment: fixed;
     color: #dee1ec;
